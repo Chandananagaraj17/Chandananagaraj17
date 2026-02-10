@@ -1,4 +1,4 @@
-## Hi 👋 I'm Salman Ahmed
+## Hi 👋 I'm Chandana N
 
 🎓 2026 CSE Graduate  
 💻 Java Full Stack Developer (Learning)  
