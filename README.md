@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋 I'm Salman Ahmed
 
-<!--
-**Chandananagaraj17/Chandananagaraj17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2026 CSE Graduate  
+💻 Java Full Stack Developer (Learning)  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Java, OOPs, JDBC
+- Spring Boot (Basics)
+- HTML, CSS, JavaScript
+- SQL, MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Spring Boot + REST APIs
+- React
+- Backend Development
+### 📫 Connect with Me
+ LinkedIn: www.linkedin.com/in/chandanan17005
+ Email:chandana17042004@gmail.com
